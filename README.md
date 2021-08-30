@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prospidy
 - 👀 I’m interested in Making some python projects
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently enhancing my python skills by doing some projects 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
