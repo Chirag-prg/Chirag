@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Prospidy
-- 👀 I’m interested in Making some python projects
-- 🌱 I’m currently enhancing my python skills by doing some projects 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Frix
+- 👀 I’m interested in learning new languages
+- 🌱 I’m currently trying to be more innovative in my projects
+
 
 <!---
 Prospidy/Prospidy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
