@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Frix
+- 👋 Hi, I’m Chirag
 - 👀 I’m interested in learning new languages
 - 🌱 I’m currently trying to be more innovative in my projects
 
